@@ -42,3 +42,7 @@ Each component was translated into a practical use case:
 
 - Extend the analysis using Python or R for reproducibility
 - Combine PCA results with clustering or recommendation systems
+
+## Note
+
+This project was originally developed as part of a university course in statistics.
