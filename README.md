@@ -16,8 +16,8 @@ This project applies **Principal Component Analysis (PCA)** to a large dataset o
 
 ## Contents
 
-- `report/`: Contains the final report (PDF) and analysis images exported from SPSS
-- `data/`: Sample dataset used (CSV)
+- `report`: Contains the final report (PDF) and analysis images exported from SPSS
+- `data`: Sample dataset used (CSV)
 - `README.md`: Project overview and context
 
 ---
