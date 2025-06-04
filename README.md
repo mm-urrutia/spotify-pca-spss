@@ -45,4 +45,4 @@ Each component was translated into a practical use case:
 
 ## Note
 
-This project was originally developed as part of a university course in statistics.
+This project was originally developed as part of a university module in statistics.
